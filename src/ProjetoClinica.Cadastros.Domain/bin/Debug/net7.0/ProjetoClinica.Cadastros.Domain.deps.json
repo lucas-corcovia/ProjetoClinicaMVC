@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProjetoClinica.Cadastros.Domain/1.0.0": {
+        "dependencies": {
+          "ProjetoClinica.Core": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoClinica.Cadastros.Domain.dll": {}
+        }
+      },
+      "ProjetoClinica.Core/1.0.0": {
+        "runtime": {
+          "ProjetoClinica.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoClinica.Cadastros.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoClinica.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

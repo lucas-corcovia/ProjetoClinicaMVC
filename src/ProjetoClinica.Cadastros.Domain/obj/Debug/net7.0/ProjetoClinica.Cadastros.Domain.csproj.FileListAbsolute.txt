@@ -1,0 +1,15 @@
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\bin\Debug\net7.0\ProjetoClinica.Cadastros.Domain.deps.json
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\bin\Debug\net7.0\ProjetoClinica.Cadastros.Domain.dll
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\bin\Debug\net7.0\ProjetoClinica.Cadastros.Domain.pdb
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\bin\Debug\net7.0\ProjetoClinica.Core.dll
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\bin\Debug\net7.0\ProjetoClinica.Core.pdb
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.csproj.AssemblyReference.cache
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.AssemblyInfoInputs.cache
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.AssemblyInfo.cs
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.csproj.CoreCompileInputs.cache
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.csproj.CopyComplete
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.dll
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\refint\ProjetoClinica.Cadastros.Domain.dll
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ProjetoClinica.Cadastros.Domain.pdb
+D:\dev\ProjetoClinica\src\ProjetoClinica.Cadastros.Domain\obj\Debug\net7.0\ref\ProjetoClinica.Cadastros.Domain.dll
